@@ -69,10 +69,12 @@ python -m grade_cli --model gemini-2.0-flash-001
 ## Project Structure
 
 ```
-├── providers/          # LLM provider implementations
-├── results/           # Output directory for results
-├── requirements.txt   # Project dependencies
-└── README.md         # This file
+├── providers/ # LLM provider implementations
+├── results/ # Output directory for results
+│ ├── output/ # Contains HTML files extracted by the model
+│ └── scores/ # Contains final scores comparing ground truth and model predictions
+├── requirements.txt # Project dependencies
+└── README.md # This file
 ```
 
 ## Acknowledgments
