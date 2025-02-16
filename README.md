@@ -10,6 +10,11 @@ This codebase provides tools to:
 - Track token usage , api latency and costs
 - Grade extraction accuracy
 
+## Input Data for download
+
+Here we have used following dataset from HF and focus on only PDF extractions
+https://huggingface.co/datasets/reducto/rd-tablebench/tree/main
+
 ## Dependencies
 
 Install required dependencies using:
