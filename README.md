@@ -64,6 +64,8 @@ python -m grade_cli --model gemini-2.0-flash-001
 - **Total input tokens:** 294840
 - **Total output tokens:** 670605
 - **Average API latency:** 12.73 seconds
+- **Average Accuracy & Std:** 0.84 with std 0.15 (as mentioned in article)
+- **Total cost:** $0.297726
 - **Total cost:** $0.297726
 
 ## Project Structure
