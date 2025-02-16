@@ -66,14 +66,12 @@ python -m grade_cli --model gemini-2.0-flash-001
 - **Average API latency:** 12.73 seconds
 - **Average Accuracy & Std:** 0.84 with std 0.15 (as mentioned in article)
 - **Total cost:** $0.297726
-- **Total cost:** $0.297726
 
 ## Project Structure
 
 ```
 ├── providers/ # LLM provider implementations
 ├── results/ # Output directory for results
-│ ├── output/ # Contains HTML files extracted by the model
 │ └── scores/ # Contains final scores comparing ground truth and model predictions
 ├── requirements.txt # Project dependencies
 └── README.md # This file
