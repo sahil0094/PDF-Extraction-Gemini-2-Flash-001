@@ -61,7 +61,6 @@ python -m grade_cli --model gemini-2.0-flash-001
 ## Insights
 
 - **Total PDFs processed:** 945
-- **PDF Types:** `{'scanned': np.int64(945)}`
 - **Total input tokens:** 294840
 - **Total output tokens:** 670605
 - **Average API latency:** 12.73 seconds
