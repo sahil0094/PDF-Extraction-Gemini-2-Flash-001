@@ -12,7 +12,7 @@ This codebase provides tools to:
 
 ## Input Data for download
 
-Here we have used following dataset from HF and focus on only PDF extractions
+Here we have used following dataset from HF and focused on only PDF extractions
 https://huggingface.co/datasets/reducto/rd-tablebench/tree/main
 
 ## Dependencies
